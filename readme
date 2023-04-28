@@ -1,2 +1,7 @@
 primeros pasos cap54
 separar elementos y como utilizar bem cap 57
+git init
+
+git add .
+git commit -m "agregue una classe css"
+git push -u origin main
